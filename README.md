@@ -1,2 +1,2 @@
 # hyperblog
-un blog increible para el curso de git y giyhub de Platzi
+un blog increible para hablar sobre el proyecto Diversxs Encarnacion
